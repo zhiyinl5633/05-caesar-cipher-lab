@@ -36,3 +36,4 @@ describe "decodes a string" do
     expect(caesar_decode("S'w k dsqob", 9500)).to eq("I'm a tiger")
   end
 end
+
